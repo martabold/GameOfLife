@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgame_of_life_controller.a CMakeFiles/game_of_life_controller.dir/src/GameOfLifeController.cpp.o
+/usr/bin/ranlib libgame_of_life_controller.a

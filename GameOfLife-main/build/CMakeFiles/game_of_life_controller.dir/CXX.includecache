@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paro/Projekty/GameOfLife/src/CommandSource.hpp
+string
+-
+
+/home/paro/Projekty/GameOfLife/src/GameOfLifeController.cpp
+GameOfLifeController.hpp
+/home/paro/Projekty/GameOfLife/src/GameOfLifeController.hpp
+iostream
+-
+cstdlib
+-
+unistd.h
+-
+
+/home/paro/Projekty/GameOfLife/src/GameOfLifeController.hpp
+iostream
+-
+GameOfLifeGrid.hpp
+/home/paro/Projekty/GameOfLife/src/GameOfLifeGrid.hpp
+CommandSource.hpp
+/home/paro/Projekty/GameOfLife/src/CommandSource.hpp
+
+/home/paro/Projekty/GameOfLife/src/GameOfLifeGrid.hpp
+vector
+-
+string
+-
+

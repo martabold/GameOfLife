@@ -1,0 +1,2 @@
+/usr/bin/ar qc libalways_next_turn.a CMakeFiles/always_next_turn.dir/src/AlwaysNextTurn.cpp.o
+/usr/bin/ranlib libalways_next_turn.a

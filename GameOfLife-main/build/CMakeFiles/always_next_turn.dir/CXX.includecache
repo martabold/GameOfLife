@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paro/Projekty/GameOfLife/src/AlwaysNextTurn.cpp
+AlwaysNextTurn.hpp
+/home/paro/Projekty/GameOfLife/src/AlwaysNextTurn.hpp
+chrono
+-
+thread
+-
+
+/home/paro/Projekty/GameOfLife/src/AlwaysNextTurn.hpp
+CommandSource.hpp
+/home/paro/Projekty/GameOfLife/src/CommandSource.hpp
+
+/home/paro/Projekty/GameOfLife/src/CommandSource.hpp
+string
+-
+

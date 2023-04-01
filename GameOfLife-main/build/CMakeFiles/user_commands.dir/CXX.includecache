@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paro/Projekty/GameOfLife/src/CommandSource.hpp
+string
+-
+
+/home/paro/Projekty/GameOfLife/src/UserCommands.cpp
+UserCommands.hpp
+/home/paro/Projekty/GameOfLife/src/UserCommands.hpp
+
+/home/paro/Projekty/GameOfLife/src/UserCommands.hpp
+CommandSource.hpp
+/home/paro/Projekty/GameOfLife/src/CommandSource.hpp
+

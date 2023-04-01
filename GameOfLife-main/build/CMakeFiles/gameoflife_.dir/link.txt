@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgameoflife_.a CMakeFiles/gameoflife_.dir/src/GameOfLifeGrid.cpp.o CMakeFiles/gameoflife_.dir/src/GameOfLifeController.cpp.o CMakeFiles/gameoflife_.dir/src/AlwaysNextTurn.cpp.o CMakeFiles/gameoflife_.dir/src/UserCommands.cpp.o CMakeFiles/gameoflife_.dir/src/BoardTypeCylinder.cpp.o CMakeFiles/gameoflife_.dir/src/BoardTypeTorus.cpp.o
+/usr/bin/ranlib libgameoflife_.a

@@ -1,0 +1,4 @@
+/home/paro/Projekty/GameOfLife/build/CMakeFiles/rebuild_cache.dir
+/home/paro/Projekty/GameOfLife/build/CMakeFiles/edit_cache.dir
+/home/paro/Projekty/GameOfLife/build/CMakeFiles/game_of_life.dir
+/home/paro/Projekty/GameOfLife/build/CMakeFiles/gameoflife_.dir

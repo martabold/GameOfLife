@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuser_commands.a CMakeFiles/user_commands.dir/src/UserCommands.cpp.o
+/usr/bin/ranlib libuser_commands.a
